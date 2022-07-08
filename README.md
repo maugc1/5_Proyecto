@@ -4,22 +4,16 @@
 ## :page_facing_up: **Objective**
 Test A/B - Comprar un globo metálico de estrella 
 
-A - control
-Diseño con scroll, para acceder
-
-
 
 
 ## :nut_and_bolt: **Hypothesis**
-- Experimento 1: Comprar camino definido largo vs corto
+  - Experimento 1: Comprar camino definido largo vs corto
   - 
 Experimento 2:
   - Si el tiempo del usuario es menor a la media: 1 /viceversa 0
 
 - Experimento 3:
   - Si el tiempo del usuario es menor a la media: 1 /viceversa 0
-
-
 
 
 
@@ -38,16 +32,10 @@ The installation process is the next:
 ----
 
 
+
 ## :computer: **Technology stack**
 ------
-- 
+- Figma
 - Jupyter Notebook
-- MySQL
 - PowerBI
 
-
-
-
-### :shit: **ToDo**
-numero de clicks
-scroll/no

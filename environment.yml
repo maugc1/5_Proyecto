@@ -17,4 +17,3 @@ dependencies:
   - nb_conda_kernels
   - scipy
   - seaborn
-  - pylab

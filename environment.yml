@@ -1,0 +1,20 @@
+name: cro
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python==3.9
+  - pip
+  - pip:
+    - powerbiclient
+  - numpy
+  - pandas
+  - ipykernel
+  - ipython
+  - jupyter
+  - matplotlib
+  - requests
+  - nb_conda_kernels
+  - scipy
+  - seaborn
+  - pylab
